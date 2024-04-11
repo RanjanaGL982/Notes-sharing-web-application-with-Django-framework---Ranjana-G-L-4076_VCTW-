@@ -24,4 +24,4 @@ python manage.py makemigrations
 python manage.py migrate  
 python manage.py createsuperuser  
 python manage.py runserver
-Paste this 127.0.0.1:8000 IP Address on any browser and it will start.127.0.0.1:8000/admin and enter your superuser's username/pass for django admin panel access
+Paste this 127.0.0.1:3000 IP Address on any browser and it will start.127.0.0.1:3000/admin and enter your superuser's username/pass for django admin panel access
