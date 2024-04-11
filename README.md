@@ -9,7 +9,6 @@ Can download the pdfs
 can request specific notes
 Admin can handle all the feattures like adding/updating/deleting the notes/users and can have overall control.
 sqlite3 database
-Give It 🌟 if u find it useful.
 
 How to Run this project?
 
